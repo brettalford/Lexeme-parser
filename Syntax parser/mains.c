@@ -2,7 +2,7 @@
 =============================================================================
 Title : lexeme parser
 Description : This program determines lexemes and their respective tokens
-Author : Brett Alford (R#11700357)
+Author : Brett Alford 
 Date : 10/30/2023
 Version : 1.0
 Usage : Compile and run this program using the GNU C compiler
